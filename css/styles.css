@@ -13,6 +13,7 @@ h3,
 p,
 ul {
   margin: 0px;
+  padding: 0px;
 }
 
 .overline {
@@ -56,6 +57,8 @@ button {
 }
 
 .navigation-title {
+  margin-right: 93px;
+
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
@@ -165,10 +168,23 @@ button {
 
 /*  */
 
-.fitures {
+.fitures-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .fitures-list {
+}
+
+.fitures-item {
+  width: 270px;
+  margin-right: 30px;
+  margin-top: 94px;
+  margin-bottom: 94px;
+}
+
+.fitures-item:nth-child(4n) {
+  margin-right: 0;
 }
 
 .fitures-title {
