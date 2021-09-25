@@ -343,7 +343,26 @@ footer {
 
 /* Вторая страница */
 
+.portfolio-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 94px;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .filter {
+  width: 128px;
+  height: 38px;
+  left: 576px;
+  top: 174px;
+  border: 0px;
+  border-radius: 4px;
+
   background-color: #f5f4fa;
 
   font-weight: 500;
@@ -353,6 +372,15 @@ footer {
   letter-spacing: 0.03em;
   color: var(--secondary-title-color);
   cursor: pointer;
+}
+
+.filter-item {
+  margin-right: 8px;
+  margin-bottom: 50px;
+}
+
+.filter-item:nth-child(5n) {
+  margin-right: 0px;
 }
 
 .filter:hover,
