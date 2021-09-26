@@ -235,8 +235,7 @@ button {
 }
 
 .team-title {
-  /* margin-right: 668px;
-  margin-left: 668px; */
+  padding-top: 94px;
   margin-bottom: 50px;
 
   font-weight: 700;
