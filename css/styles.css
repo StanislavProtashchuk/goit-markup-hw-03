@@ -141,6 +141,7 @@ button {
 /* Hero */
 
 .hero {
+  height: 600px;
   background-color: #2f303a;
   text-align: center;
 }
