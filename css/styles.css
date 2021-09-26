@@ -347,6 +347,13 @@ footer {
 
 /* Вторая страница */
 
+.header-portfolio {
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #ececec;
+  border-left: 0px;
+}
+
 .portfolio-container {
   display: flex;
   flex-wrap: wrap;
@@ -381,6 +388,7 @@ footer {
 .filter-item {
   margin-right: 8px;
   margin-bottom: 50px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .filter-item:nth-child(5n) {
