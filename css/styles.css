@@ -207,6 +207,8 @@ button {
 }
 
 .fitures-title {
+  margin-bottom: 10px;
+
   font-weight: 700;
   font-size: 14px;
   line-height: calc (16 / 14);
