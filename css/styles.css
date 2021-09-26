@@ -156,6 +156,7 @@ button {
   line-height: calc (60 / 44);
   letter-spacing: 0.06em;
   color: var(--primary-title-color);
+  text-transform: uppercase;
 }
 
 .hero-button {
