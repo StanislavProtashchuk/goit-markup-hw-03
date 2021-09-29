@@ -86,7 +86,7 @@ button {
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
-  line-height: calc (31 / 26);
+  line-height: calc(31 / 26);
   letter-spacing: 0.03em;
   color: var(--secondary-title-color);
 }
@@ -127,7 +127,7 @@ button {
 
   font-weight: 500;
   font-size: 14px;
-  line-height: calc (16 / 14);
+  line-height: calc(16 / 14);
   letter-spacing: 0.02em;
   color: var(--secondary-title-color);
 }
@@ -148,7 +148,7 @@ button {
 
   font-weight: 500;
   font-size: 14px;
-  line-height: calc (16 / 14);
+  line-height: calc(16 / 14);
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
@@ -175,7 +175,7 @@ button {
   font-family: Roboto;
   font-weight: 900;
   font-size: 44px;
-  line-height: calc (60 / 44);
+  line-height: calc(60 / 44);
   letter-spacing: 0.06em;
   color: var(--primary-title-color);
   text-transform: uppercase;
@@ -190,7 +190,7 @@ button {
   background-color: var(--accent-color);
   font-weight: 700;
   font-size: 16px;
-  line-height: calc (30 / 16);
+  line-height: calc(30 / 16);
 
   letter-spacing: 0.06em;
   cursor: pointer;
@@ -227,7 +227,7 @@ button {
 
   font-weight: 700;
   font-size: 14px;
-  line-height: calc (16 / 14);
+  line-height: calc(16 / 14);
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--secondary-title-color);
@@ -235,7 +235,7 @@ button {
 
 .fitures-description {
   font-size: 14px;
-  line-height: calc (24 / 14);
+  line-height: calc(24 / 14);
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
 }
@@ -249,7 +249,7 @@ button {
 
   font-weight: 700;
   font-size: 36px;
-  line-height: calc (42 / 36);
+  line-height: calc(42 / 36);
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -263,7 +263,7 @@ button {
 
   font-weight: 700;
   font-size: 36px;
-  line-height: calc (42 / 36);
+  line-height: calc(42 / 36);
   justify-content: center;
   text-align: center;
   letter-spacing: 0.03em;
@@ -330,7 +330,7 @@ footer {
 .footer-navigation-contact {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc (16 / 14);
+  line-height: calc(16 / 14);
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
@@ -347,7 +347,7 @@ footer {
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
-  line-height: calc (31 / 26);
+  line-height: calc(31 / 26);
   letter-spacing: 0.03em;
   color: var(--primary-title-color);
 }
@@ -365,7 +365,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: calc (24 / 14);
+  line-height: calc(24 / 14);
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
@@ -394,7 +394,7 @@ footer {
 
   font-weight: 500;
   font-size: 16px;
-  line-height: calc (26 / 16);
+  line-height: calc(26 / 16);
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--secondary-title-color);
@@ -414,7 +414,7 @@ footer {
   background-color: var(--accent-color);
   font-weight: 500;
   font-size: 16px;
-  line-height: calc (26 / 16);
+  line-height: calc(26 / 16);
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primary-title-color);
@@ -457,7 +457,7 @@ footer {
 
   font-weight: 700;
   font-size: 18px;
-  line-height: calc (36 / 18);
+  line-height: calc(36 / 18);
   letter-spacing: 0.06em;
   color: var(--secondary-title-color);
 }
@@ -470,7 +470,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: calc (30 / 16);
+  line-height: calc(30 / 16);
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
 }
